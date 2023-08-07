@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33927.210
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiMicrochartsSample", "MauiMicrochartsSample\MauiMicrochartsSample.csproj", "{9D5B5EC1-D9EF-48FE-B0FC-7AF94C48C51D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D5B5EC1-D9EF-48FE-B0FC-7AF94C48C51D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D5B5EC1-D9EF-48FE-B0FC-7AF94C48C51D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D5B5EC1-D9EF-48FE-B0FC-7AF94C48C51D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9D5B5EC1-D9EF-48FE-B0FC-7AF94C48C51D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D5B5EC1-D9EF-48FE-B0FC-7AF94C48C51D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D5B5EC1-D9EF-48FE-B0FC-7AF94C48C51D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D83A0156-8BBC-4883-9C71-EB39B1811CCE}
+	EndGlobalSection
+EndGlobal
